@@ -6,5 +6,5 @@ hello:
 runs-on:ubuntu-latest
 
 steps:
-   name:Print sample
-   run:echo "sample"
+   name:Print hello world
+   run:echo "Hello World"
